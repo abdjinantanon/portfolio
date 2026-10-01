@@ -89,7 +89,7 @@ Analysis of electoral data using statistical and machine learning methods to ide
 ### Student Grade Management & Analytics Platform
 
 **Role:** Developer
-**Context:** University project — Université de Montpellier
+**Context:** Research project (TER) — Université de Montpellier
 **Date:** 2025
 
 Designed and developed a web application for managing, analyzing, and visualizing student grade records. The project focused on processing large volumes of heterogeneous and sensitive academic data.
@@ -182,7 +182,7 @@ Implementation and experimental analysis of several optimization algorithms and 
 
 **Role:** Data Scientist / Big Data Developer
 **Context:** University project
-**Date:** [Year]
+**Date:** 2026
 
 Developed a distributed text processing pipeline using **Apache Spark** to process and analyze a large corpus of novels from the 19th-century Romantic and Realist literary periods. The project focused on building scalable ETL and NLP workflows rather than on literary interpretation.
 
@@ -225,7 +225,7 @@ Developed a distributed text processing pipeline using **Apache Spark** to proce
 
 **Role:** Data Scientist / Database Developer
 **Context:** University project
-**Date:** [Year]
+**Date:** 2026
 
 This project focused on improving the quality and structure of two datasets published by the **City of Paris**, covering trees and green spaces.
 
@@ -265,7 +265,7 @@ The objective was to identify and reduce **data redundancies and anomalies** by 
 
 **Role:** C++ Developer
 **Context:** University project
-**Date:** [Year]
+**Date:** 2025
 
 Developed a grid-based puzzle game inspired by *Baba Is You*, with a focus on object-oriented programming and software design in C++.
 
