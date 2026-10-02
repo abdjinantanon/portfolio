@@ -21,11 +21,12 @@
 
 ## Projects
 
-### Voting Data Analysis & Matrix Factorization
+### Voting Data Analysis with Machine Learning
 
-**Role:** Data Scientist
-**Context:** University project
-**Date:** [Year]
+**Role:** Data Science / Machine Learning
+**Context:** University project - Université Paris Cité
+**Date:** 2026
+**Repository:** [GitHub repository](https://github.com/abdjinantanon/MA7BY020-2026-2)  Private repository — access can be provided upon request.
 
 Statistical analysis of voting patterns in Paris using polling-station-level electoral data collected from multiple open-data sources. The project focused on applying matrix factorization and multivariate statistical methods to identify patterns and relationships between polling stations across different elections.
 
@@ -58,31 +59,10 @@ Statistical analysis of voting patterns in Paris using polling-station-level ele
 
 ### Technologies
 
-**R · Statistics · Data Analysis · PCA · CCA · Clustering · Regression · Parquet · Arrow · Geographic Data**
+**R · dplyr · ggplot2 · sf · factoextra · CCA · corrplot · car· Statistics · Data Analysis · PCA · CCA · Clustering · Regression · Parquet · Arrow · Geographic Data**
 
 **Data sources:** Paris Open Data · data.gouv.fr · OpenDataSoft · Île-de-France Open Data
 
-**Repository:** [GitHub](#)
-
-
-### Electoral Data Analysis with Machine Learning
-
-**Role:** Data Science / Machine Learning
-**Context:** University project - Université Paris Cité
-**Date:** 2026
-
-Analysis of electoral data using statistical and machine learning methods to identify patterns, relationships, and underlying structures within the data.
-
-#### Key contributions
-
-* Applied clustering algorithms to identify groups and structures within electoral data.
-* Used regression models to investigate relationships between variables.
-* Applied Principal Component Analysis (PCA) for dimensionality reduction and data visualization.
-* Performed data analysis and interpretation to extract meaningful patterns from the dataset.
-
-**Technologies:** R · dplyr · ggplot2 · sf · factoextra · CCA · corrplot · car
-
-**Repository:** [GitHub repository](https://github.com/abdjinantanon/MA7BY020-2026-2)
 
 ---
 
@@ -91,6 +71,7 @@ Analysis of electoral data using statistical and machine learning methods to ide
 **Role:** Developer
 **Context:** Research project (TER) — Université de Montpellier
 **Date:** 2025
+**Repository:** [GitHub repository](#) Private repository — access can be provided upon request.
 
 Designed and developed a web application for managing, analyzing, and visualizing student grade records. The project focused on processing large volumes of heterogeneous and sensitive academic data.
 
@@ -102,9 +83,9 @@ Designed and developed a web application for managing, analyzing, and visualizin
 * Developed features for managing, analyzing, and visualizing student grade data.
 * Worked with sensitive academic data while maintaining a structured and reliable data-processing pipeline.
 
-**Technologies:** Python · FastApi · Data Processing · Data Analysis · Web Development · Git
+**Technologies:** Python · FastApi · Pandas · PDFMiner · OpenPyXL · Data Processing · Data Analysis · Web Development · Git
 
-**Repository:** [GitHub repository](#)
+
 
 ---
 
@@ -114,6 +95,8 @@ Designed and developed a web application for managing, analyzing, and visualizin
 **Role:** Data Analyst
 **Context:** University project - Université Paris Cité
 **Date:** 2026
+**Repository:** [GitHub](https://github.com/abdjinantanon/MA7BY020-2026-1) Private repository — access can be provided upon request.
+
 
 Analysis of the evolution of the COVID-19 pandemic across European countries using epidemiological, vaccination, and geographic data. The project aimed to identify trends and compare the impact of the pandemic across different European regions.
 
@@ -133,7 +116,6 @@ The analysis was based on data from **Our World in Data**, complemented with Eur
 
 **Data sources:** [Our World in Data](https://docs.owid.io/projects/etl/api/covid/#download-data)
 
-**Repository:** [GitHub](#)
 
 
 ---
@@ -144,6 +126,8 @@ The analysis was based on data from **Our World in Data**, complemented with Eur
 **Role:** Developer
 **Context:** University project - Université Paris Cité - 4 practical assignments
 **Date:** 2026
+**Repository:** [GitHub](https://github.com/abdjinantanon/programmationLineaire) Private repository — access can be provided upon request.
+
 
 Implementation and experimental analysis of several optimization algorithms and mathematical methods through a series of four practical assignments. The project covered exact, heuristic, approximation, and dynamic programming approaches to different combinatorial optimization problems.
 
@@ -173,8 +157,6 @@ Implementation and experimental analysis of several optimization algorithms and 
 
 **Technologies:** Python · Algorithms · Mathematical Optimization · Complexity Analysis
 
-**Repository:** [GitHub](https://github.com/abdjinantanon/programmationLineaire)
-
 
 ---
 
@@ -183,6 +165,7 @@ Implementation and experimental analysis of several optimization algorithms and 
 **Role:** Data Scientist / Big Data Developer
 **Context:** University project
 **Date:** 2026
+**Repository:** [GitHub](https://github.com/abdjinantanon/IFEBY310-2026-01) Private repository — access can be provided upon request.
 
 Developed a distributed text processing pipeline using **Apache Spark** to process and analyze a large corpus of novels from the 19th-century Romantic and Realist literary periods. The project focused on building scalable ETL and NLP workflows rather than on literary interpretation.
 
@@ -216,8 +199,6 @@ Developed a distributed text processing pipeline using **Apache Spark** to proce
 * Performance Profiling
 * Columnar Data Storage
 
-**Repository:** [GitHub](https://github.com/abdjinantanon/IFEBY310-2026-01)
-
 
 ---
 
@@ -226,6 +207,8 @@ Developed a distributed text processing pipeline using **Apache Spark** to proce
 **Role:** Data Scientist / Database Developer
 **Context:** University project
 **Date:** 2026
+**Repository:** [GitHub](https://github.com/abdjinantanon/Paris_urban_data) Private repository — access can be provided upon request.
+
 
 This project focused on improving the quality and structure of two datasets published by the **City of Paris**, covering trees and green spaces.
 
@@ -257,7 +240,6 @@ The objective was to identify and reduce **data redundancies and anomalies** by 
 
 **Data sources:** City of Paris Open Data
 
-**Repository:** [GitHub](https://github.com/abdjinantanon/Paris_urban_data)
 
 ---
 
@@ -266,6 +248,7 @@ The objective was to identify and reduce **data redundancies and anomalies** by 
 **Role:** C++ Developer
 **Context:** University project
 **Date:** 2025
+**Repository:** [GitHub](https://github.com/abdjinantanon/baba_is_you_game) Private repository — access can be provided upon request.
 
 Developed a grid-based puzzle game inspired by *Baba Is You*, with a focus on object-oriented programming and software design in C++.
 
@@ -280,6 +263,5 @@ Developed a grid-based puzzle game inspired by *Baba Is You*, with a focus on ob
 
 **Technologies:** C++ · OOP · Design Patterns · Algorithms
 
-**Repository:** [GitHub](https://github.com/abdjinantanon/baba_is_you_game)
 
 
