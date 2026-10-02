@@ -47,15 +47,18 @@ Statistical analysis of voting patterns in Paris using polling-station-level ele
 ### Methods & Topics
 
 * Principal Component Analysis (PCA)
-* Matrix Factorization / SVD
 * Canonical Correlation Analysis (CCA)
 * K-means Clustering
+![K-means Clustering](assets/images/ind_comp_eucli.png)
 * Hierarchical Clustering
 * Linear Regression
 * Multivariate Statistical Analysis
 * Geographic Data Analysis
 * Data Cleaning & Harmonization
 * Data Extraction Pipelines
+* Choropleth map
+![Choropleth map](assets/images/choroplet2012.png)
+
 
 ### Technologies
 
@@ -251,6 +254,8 @@ The objective was to identify and reduce **data redundancies and anomalies** by 
 **Repository:** [GitHub](https://github.com/abdjinantanon/baba_is_you_game) Private repository — access can be provided upon request.
 
 Developed a grid-based puzzle game inspired by *Baba Is You*, with a focus on object-oriented programming and software design in C++.
+![example of a level](assets/images/level1.png)
+
 
 #### Key contributions
 
