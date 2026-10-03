@@ -74,7 +74,7 @@ Statistical analysis of voting patterns in Paris using polling-station-level ele
 **Role:** Developer  
 **Context:** Research project (TER) — Université de Montpellier  
 **Date:** 2025  
-**Repository:** [GitHub repository](#) Private repository — access can be provided upon request.  
+**Repository:** [GitLab repository](https://gitlab.com/agl22/projetpv/projet-visualisateur-de-pv) Private repository — access can be provided upon request.  
 
 Designed and developed a web application for managing, analyzing, and visualizing student grade records. The project focused on processing large volumes of heterogeneous and sensitive academic data.
 
