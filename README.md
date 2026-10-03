@@ -103,7 +103,15 @@ Designed and developed a web application for managing, analyzing, and visualizin
 
 Analysis of the evolution of the COVID-19 pandemic across European countries using epidemiological, vaccination, and geographic data. The project aimed to identify trends and compare the impact of the pandemic across different European regions.
 
-The analysis was based on data from **Our World in Data**, complemented with European NUTS (Nomenclature of Territorial Units for Statistics) data to enable a more detailed regional analysis.
+
+<iframe
+  src="assets/images/animation.html"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
+
 
 #### Key contributions
 
@@ -254,6 +262,8 @@ The objective was to identify and reduce **data redundancies and anomalies** by 
 **Repository:** [GitHub](https://github.com/abdjinantanon/baba_is_you_game) Private repository — access can be provided upon request.
 
 Developed a grid-based puzzle game inspired by *Baba Is You*, with a focus on object-oriented programming and software design in C++.
+
+
 ![example of a level](assets/images/level1.png)
 
 
