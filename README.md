@@ -23,7 +23,7 @@
 
 ### Voting Data Analysis with Machine Learning
 
-**Role:** Data Science / Machine Learning
+**Role:** Data Science / Machine Learning  
 **Context:** University project - Université Paris Cité
 **Date:** 2026
 **Repository:** [GitHub repository](https://github.com/abdjinantanon/MA7BY020-2026-2)  Private repository — access can be provided upon request.
